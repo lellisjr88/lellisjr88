@@ -9,6 +9,7 @@
 🚀 Estudando React, APIs REST, redes e segurança da informação
 
 ## 💻 Tecnologias
+![W3C Validation](https://img.shields.io/w3c-validation/html)
 
 - HTML5
 - CSS3
