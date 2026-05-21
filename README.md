@@ -1,12 +1,15 @@
 # Olá! Eu sou Lellis Junior 👋
 
-## Sobre mim
+## 🚀 Sobre mim
+
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
 📚 Pós-graduado em Tecnologias Aplicadas à Educação  
 💻 Desenvolvedor Front-End em constante evolução  
 🏛️ Atuação profissional no setor público com experiência em licitações e processos administrativos  
 🚀 Estudando React, APIs REST, redes e segurança da informação
-## Tecnologias
+
+## 💻 Tecnologias
+
 - HTML5
 - CSS3
 - JavaScript
@@ -15,15 +18,21 @@
 - APIs REST
 - Responsividade
 - UI/UX
-## Atualmente estudando
+
+## 📚 Atualmente estudando
+
 - React
 - TypeScript
 - Tailwind CSS
 - Redes de Computadores
 - Segurança da Informação
-## Projetos em destaque
+
+
+## 📌 Projetos em destaque
+
 - Em construção...
-## Contato
+
+## 📫 Contato
 
 - LinkedIn: www.linkedin.com/in/lellisjunior
 - E-mail: elsj1988@gmail.com
