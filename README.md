@@ -2,11 +2,11 @@
 
 ## 🚀 Sobre mim
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas  
-📚 Pós-graduado em Tecnologias Aplicadas à Educação  
-💻 Desenvolvedor Front-End em constante evolução  
-🏛️ Atuação profissional no setor público com experiência em licitações e processos administrativos  
-🚀 Estudando React, APIs REST, redes e segurança da informação
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas  
+- 📚 Pós-graduado em Tecnologias Aplicadas à Educação  
+- 💻 Desenvolvedor Front-End em constante evolução  
+- 🏛️ Atuação profissional no setor público com experiência em licitações e processos administrativos  
+- 🚀 Estudando React, APIs REST, redes e segurança da informação
 
 ## 💻 Tecnologias
 
@@ -30,7 +30,11 @@
 
 ## 📌 Projetos em destaque
 
-- Em construção...
+### 🔹 Portfólio Profissional
+- Projeto desenvolvido com foco em Front-End moderno, responsividade, componentização e boas práticas em React.
+
+### 🔹 Estudos Front-End
+- Repositório dedicado à evolução prática em JavaScript, React, APIs REST e desenvolvimento de interfaces web.
 
 ## 📫 Contato
 
